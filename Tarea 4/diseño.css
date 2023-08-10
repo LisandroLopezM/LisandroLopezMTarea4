@@ -1,0 +1,73 @@
+a[href="index.html"]{
+    background-color:yellowgreen;
+    border-radius: 50px;
+    width: 100px;
+    paddind:10px;
+}
+a[href="idex2.html"]{
+    background-color:yellow;
+    border-radius: 50px;
+    width: 100px;
+    paddind:10px;
+}
+.ninos {
+    background-color: aqua;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .ninos h1 {
+    font-family: Arial, sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    color: #333;
+    margin: 0 0 20px;
+  }
+  
+  .ninos p {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #666;
+    text-align: justify;
+    margin: 0;
+  }
+  
+#manolo {
+    font-family: Arial, sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    color: #333;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px #ccc;
+    background-color: #f1f1f1;
+    padding: 20px;
+    margin: 0;
+    border: 2px solid #333;
+    border-radius: 10px;
+  }
+
+
+  #juan {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #666;
+    text-align: justify;
+    margin: 20px 0;
+    padding: 10px;
+    background-color: #f1f1f1;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 2px 2px 4px #ccc;
+  }
+
+#tumbalacasa {
+
+background-color: beige;
+
+
+
+}
